@@ -1,0 +1,25 @@
+{
+  "name": "members-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "memArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node memArray.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav-2-0-0-2/members-array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gaurav-2-0-0-2/members-array/issues"
+  },
+  "homepage": "https://github.com/gaurav-2-0-0-2/members-array#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
